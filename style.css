@@ -24,7 +24,11 @@ html {
 }
 
 body{
-  background: #dfdad7;
+  background: linear-gradient(
+    180deg,
+    #dfdad7 0%,
+    #E6E2DF 100%
+  );
 
 }
 
